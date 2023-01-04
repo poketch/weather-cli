@@ -10,7 +10,7 @@ IMPORTANT: The program uses the [public-ip crate](https://crates.io/crates/publi
 ## Installation 
 
 ```console
-$ cargo install weather-cli
+$ cargo install --git https://github.com/poketch/weather-cli
 ```
 
 ## Usage
