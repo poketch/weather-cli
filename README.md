@@ -39,6 +39,8 @@ This was mostly a bite sized learning project but there are some extensions I wo
     -n, --noip : Geolocates without looking for your public ip
     -l, --location : Prints the weather for a provided city/country (pref. without using google maps api fof geolocation)
  
+ - Build Open-Meteo request link in a more dynamic way
+
  - More Robust Object Deserialization with serde
 
  - Reading Timezone from Open-Meteo and process it through Chrono to give the *"Last Updated"* in local time
